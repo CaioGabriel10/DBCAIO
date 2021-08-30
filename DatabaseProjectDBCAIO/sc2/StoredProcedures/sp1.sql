@@ -1,0 +1,14 @@
+
+-- Autor: Caio
+-- Data: 2021-08-30
+CREATE PROCEDURE sc2.sp1
+AS
+BEGIN
+    SET NOCOUNT ON
+
+    SELECT *
+    FROM tb1
+END
+
+GO
+

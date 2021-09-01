@@ -5,8 +5,10 @@ AS
 BEGIN
     SET NOCOUNT ON
 
-    SELECT *
+    SELECT TOP 10 *
     FROM tb1
+
+
 END
 
 GO

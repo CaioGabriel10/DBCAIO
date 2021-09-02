@@ -82,5 +82,7 @@
     <Build Include="dbo\StoredProcedures\sp1.sql" />
     <Build Include="sc2\Tables\tb3.sql" />
     <Build Include="sc2\Views\View1.sql" />
+    <Build Include="sc2\Tables\tb4.sql" />
+    <Build Include="sc2\StoredProcedures\sp2.sql" />
   </ItemGroup>
 </Project>
